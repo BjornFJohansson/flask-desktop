@@ -1,0 +1,7 @@
+Flask
+Jinja2
+Werkzeug
+MarkupSafe
+itsdangerous
+PyQt5
+PyQtWebEngine
